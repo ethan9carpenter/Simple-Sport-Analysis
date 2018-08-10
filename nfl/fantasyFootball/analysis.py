@@ -1,6 +1,5 @@
 import pandas as pd
 from statistics import mean, stdev
-import numpy as np
 
 def analyze(numStarters, numTeams=12, how='mean'):
     data = []
